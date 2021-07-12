@@ -1,6 +1,6 @@
 # ChristmasTree
 
-Just Because I like Christmas.
+Inside program:
 
 Christmas Tree;
 Christmas Tree Inverted;
